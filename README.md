@@ -23,6 +23,10 @@ git clone https://github.com/KinyuaMwathi/build-a-deck
 
 ```
 
+## Link to live site 
+
+* You can find the link to my build a deck website [here](https://kinyuamwathi.github.io/build-a-deck/)
+
 ## License
 
 MIT License 
